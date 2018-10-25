@@ -1,4 +1,7 @@
 <?php
+/**
+* @link https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/train/php
+*/
 function encrypt($text, $n) {
     return encryptDecrypt($text, $n);
 }
